@@ -92,7 +92,7 @@ const RegisterCustomer = () => {
                         >
                             <Form.Item style={{ marginBottom: 3 }}>
 
-                                <Divider style={{ marginBottom: 5, fontSize: 19 }} orientation="center">Guardian!</Divider>
+                                <Divider style={{ marginBottom: 5, fontSize: 19 }} orientation="center">SaoVietSafe!</Divider>
                             </Form.Item>
                             <Form.Item style={{ marginBottom: 16 }}>
                                 <p className="text">Đăng ký tài khoản đối tác</p>

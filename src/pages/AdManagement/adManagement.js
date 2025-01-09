@@ -55,9 +55,9 @@ const AdManagement = () => {
         try {
             const payload = {
                 address: values.address,
-                user_id: JSON.parse(localStorage.getItem('user')).id, // Get user_id from localStorage
+                user_id: JSON.parse(localStorage.getItem('user')).id, 
                 status: values.status,
-                category_id: values.category_id, // Get category_id from form
+                category_id: values.category_id, 
             };
 
             if (currentId) {

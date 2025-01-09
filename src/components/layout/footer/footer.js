@@ -9,7 +9,7 @@ function _Footer(){
         <Footer style={{
             marginLeft: 230,
             textAlign: 'center'}}>
-            Copyright@ 2024 Created by team Guardian
+            Copyright@ 2024 Created by team SaoVietSafe
         </Footer>
     );
 }
